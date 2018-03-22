@@ -1,0 +1,22 @@
+Ctrl + Shif + F = identa código automaticamente
+
+Ctrl + 3	= aba de pesquisa
+		  digitando ggas faz ele criar getters e setters automaticamente
+		  digitando contructor faz ele criar o contrutor automaticamente
+		  digitando console ele abre o console
+
+digitar syso + Ctrl + Space = digita System.out.println();
+
+digitar main + Ctrl + Space = digita public static void main (String [] args) {}
+
+Ctrl + 1	= sugestao para criar metodos, corrigir
+
+Ctrl + Fn + PgUp || PgDn (seta cima ou baixo) = navega entre abas
+
+Ctrl + O = busca partes no codigo dentro da classe
+
+Ctrl + shift + t = busca classes ou outros arquivos no workspace
+
+f3 		 = busca a origem do que você está analisando 
+
+segurar ctrl e passar o mouse sobre oq foi imprementado. da pra abri a classe que está buscando.

@@ -1,0 +1,21 @@
+command=C\:\\Program Files\\Java\\jdk1.8.0_101\\bin\\javadoc.exe
+content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.recommenders.calls.rcp.proposalCategory.templates\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.recommenders.chain.rcp.proposalCategory.chain\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="Funcionario"><rhs name\="Funcionario"/><rhs name\="Gerente"/></lhs><lhs name\="Gerente"><rhs name\="Gerente"/></lhs><lhs name\="ContaCCeCP.AtualizadorDeContas"><rhs name\="ContaCCeCP.AtualizadorDeContas"/></lhs><lhs name\="ContaComAtalhosMelhorados.Conta"><rhs name\="ContaComAtalhosMelhorados.ContaCorrente"/></lhs><lhs name\="ContaComAtalhosMelhorados.ContaCorrente"><rhs name\="ContaComAtalhosMelhorados.ContaCorrente"/></lhs><lhs name\="FuncionariosProblem.Funcionario"><rhs name\="FuncionariosProblem.Gerente"/></lhs><lhs name\="FuncionariosProblem.Gerente"><rhs name\="FuncionariosProblem.Gerente"/></lhs><lhs name\="FuncionariosProblem.FuncionarioAutenticavel"><rhs name\="FuncionariosProblem.Gerente"/></lhs><lhs name\="java.lang.Throwable"><rhs name\="java.lang.IllegalArgumentException"/><rhs name\="ContaCCeCP.ValorInvalidoException"/></lhs><lhs name\="java.lang.Exception"><rhs name\="java.lang.IllegalArgumentException"/><rhs name\="ContaCCeCP.ValorInvalidoException"/></lhs><lhs name\="br.com.empresa.banco.sistema.GuardadorDeObjetos"><rhs name\="br.com.empresa.banco.sistema.GuardadorDeObjetos"/></lhs><lhs name\="br.com.empresa.banco.conta.Cliente"><rhs name\="br.com.empresa.banco.conta.Cliente"/></lhs><lhs name\="br.com.alura.java2.interfaces.Palavra"><rhs name\="br.com.alura.java2.interfaces.Palavra"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.RandomAccess"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Cloneable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.AbstractCollection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.ArrayList"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="br.com.empresa.banco.conta.Tributavel"><rhs name\="br.com.empresa.banco.conta.ContaCorrente"/></lhs><lhs name\="br.com.empresa.banco.conta.Conta"><rhs name\="br.com.empresa.banco.conta.ContaCorrente"/><rhs name\="br.com.empresa.banco.conta.ContaPoupanca"/></lhs><lhs name\="br.com.empresa.banco.conta.ContaCorrente"><rhs name\="br.com.empresa.banco.conta.ContaCorrente"/></lhs><lhs name\="br.com.empresa.banco.conta.ContaPoupanca"><rhs name\="br.com.empresa.banco.conta.ContaPoupanca"/></lhs><lhs name\="java.util.Random"><rhs name\="java.util.Random"/></lhs><lhs name\="br.com.empresa.banco.Banco"><rhs name\="br.com.empresa.banco.Banco"/></lhs></history>
+content_assist_number_of_computers=19
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+fontPropagated=true
+org.eclipse.jdt.ui.editor.tab.width=
+org.eclipse.jdt.ui.formatterprofiles.version=12
+org.eclipse.jdt.ui.javadoclocations.migrated=true
+org.eclipse.jdt.ui.text.code_templates_migrated=true
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+org.eclipse.jdt.ui.text.templates_migrated=true
+org.eclipse.jface.textfont=1|Consolas|10.0|0|WINDOWS|1|0|0|0|0|0|0|0|0|1|0|0|0|0|Consolas;
+proposalOrderMigrated=true
+spelling_locale_initialized=true
+tabWidthPropagated=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
